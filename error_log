@@ -1,0 +1,58 @@
+[07-Mar-2014 05:50:08 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/dpractic/public_html/courses/course.php on line 19
+[07-Mar-2014 05:50:18 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/dpractic/public_html/courses/course.php on line 19
+[07-Mar-2014 05:50:54 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/dpractic/public_html/courses/course.php on line 19
+[07-Mar-2014 05:52:12 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/dpractic/public_html/courses/course.php on line 19
+[07-Mar-2014 05:52:15 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/dpractic/public_html/courses/course.php on line 19
+[07-Mar-2014 05:56:39 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/dpractic/public_html/courses/course.php on line 22
+[07-Mar-2014 05:57:09 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/dpractic/public_html/courses/course.php on line 22
+[07-Mar-2014 05:57:16 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/dpractic/public_html/courses/course.php on line 21
+[07-Mar-2014 05:57:35 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/dpractic/public_html/courses/course.php on line 21
+[07-Mar-2014 05:57:38 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/dpractic/public_html/courses/course.php on line 21
+[07-Mar-2014 05:58:04 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/dpractic/public_html/courses/course.php on line 22
+[07-Mar-2014 05:59:13 America/Denver] PHP Parse error:  syntax error, unexpected '*' in /home2/dpractic/public_html/courses/course.php on line 37
+[07-Mar-2014 05:59:32 America/Denver] PHP Parse error:  syntax error, unexpected '*' in /home2/dpractic/public_html/courses/course.php on line 37
+[07-Mar-2014 05:59:36 America/Denver] PHP Parse error:  syntax error, unexpected '*' in /home2/dpractic/public_html/courses/course.php on line 37
+[07-Mar-2014 06:02:37 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/dpractic/public_html/courses/course.php on line 34
+[07-Mar-2014 06:02:40 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/dpractic/public_html/courses/course.php on line 34
+[07-Mar-2014 06:02:47 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/dpractic/public_html/courses/course.php on line 34
+[07-Mar-2014 06:03:21 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/dpractic/public_html/courses/course.php on line 34
+[07-Mar-2014 06:03:30 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/dpractic/public_html/courses/course.php on line 34
+[07-Mar-2014 06:03:45 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/dpractic/public_html/courses/course.php on line 34
+[07-Mar-2014 06:03:48 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/dpractic/public_html/courses/course.php on line 34
+[07-Mar-2014 06:04:05 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/dpractic/public_html/courses/course.php on line 34
+[07-Mar-2014 06:04:08 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/dpractic/public_html/courses/course.php on line 34
+[07-Mar-2014 06:06:37 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/dpractic/public_html/courses/course.php on line 34
+[07-Mar-2014 06:06:47 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/dpractic/public_html/courses/course.php on line 34
+[07-Mar-2014 06:07:03 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/dpractic/public_html/courses/course.php on line 34
+[07-Mar-2014 06:07:46 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/dpractic/public_html/courses/course.php on line 36
+[07-Mar-2014 06:07:51 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/dpractic/public_html/courses/course.php on line 36
+[07-Mar-2014 06:08:03 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/dpractic/public_html/courses/course.php on line 36
+[07-Mar-2014 06:08:24 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/dpractic/public_html/courses/course.php on line 13
+[07-Mar-2014 06:09:29 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/dpractic/public_html/courses/course.php on line 13
+[07-Mar-2014 06:15:39 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/dpractic/public_html/courses/course.php on line 13
+[07-Mar-2014 06:17:09 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/dpractic/public_html/courses/course.php on line 13
+[07-Mar-2014 06:17:12 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/dpractic/public_html/courses/course.php on line 13
+[07-Mar-2014 06:18:23 America/Denver] PHP Notice:  Undefined variable: facebook in /home2/dpractic/public_html/courses/course.php on line 12
+[07-Mar-2014 06:18:23 America/Denver] PHP Fatal error:  Call to a member function getUser() on a non-object in /home2/dpractic/public_html/courses/course.php on line 12
+[07-Mar-2014 06:18:38 America/Denver] PHP Notice:  Undefined variable: facebook in /home2/dpractic/public_html/courses/course.php on line 12
+[07-Mar-2014 06:18:38 America/Denver] PHP Fatal error:  Call to a member function getUser() on a non-object in /home2/dpractic/public_html/courses/course.php on line 12
+[07-Mar-2014 06:18:55 America/Denver] PHP Notice:  Undefined variable: facebook in /home2/dpractic/public_html/courses/course.php on line 12
+[07-Mar-2014 06:18:55 America/Denver] PHP Fatal error:  Call to a member function getUser() on a non-object in /home2/dpractic/public_html/courses/course.php on line 12
+[07-Mar-2014 06:19:27 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/dpractic/public_html/courses/course.php on line 24
+[07-Mar-2014 06:19:31 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/dpractic/public_html/courses/course.php on line 24
+[07-Mar-2014 06:19:47 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/dpractic/public_html/courses/course.php on line 24
+[07-Mar-2014 06:19:52 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/dpractic/public_html/courses/course.php on line 24
+[07-Mar-2014 06:21:47 America/Denver] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home2/dpractic/public_html/courses/course.php on line 29
+[07-Mar-2014 06:21:50 America/Denver] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home2/dpractic/public_html/courses/course.php on line 29
+[07-Mar-2014 06:21:50 America/Denver] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home2/dpractic/public_html/courses/course.php on line 29
+[07-Mar-2014 06:22:59 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/dpractic/public_html/courses/course.php on line 24
+[07-Mar-2014 06:23:03 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/dpractic/public_html/courses/course.php on line 24
+[07-Mar-2014 06:23:41 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/dpractic/public_html/courses/course.php on line 24
+[07-Mar-2014 06:24:03 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/dpractic/public_html/courses/course.php on line 24
+[07-Mar-2014 06:24:04 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/dpractic/public_html/courses/course.php on line 24
+[07-Mar-2014 06:24:36 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/dpractic/public_html/courses/course.php on line 24
+[07-Mar-2014 06:24:38 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/dpractic/public_html/courses/course.php on line 24
+[07-Mar-2014 06:24:40 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/dpractic/public_html/courses/course.php on line 24
+[07-Mar-2014 06:24:49 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/dpractic/public_html/courses/course.php on line 24
+[07-Mar-2014 06:35:43 America/Denver] PHP Notice:  Undefined variable: facebook in /home2/dpractic/public_html/courses/course.php on line 12
+[07-Mar-2014 06:35:43 America/Denver] PHP Fatal error:  Call to a member function getUser() on a non-object in /home2/dpractic/public_html/courses/course.php on line 12
